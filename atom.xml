@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Fomalhaut🥝</title>
+  <title>My Exclusive Heaven</title>
   
-  
+  <subtitle>おかえりなさいご，主人様ˋ( ° ▽、° )</subtitle>
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
   
   <link href="https://www.fomal.cc/"/>
@@ -10,7 +10,7 @@
   <id>https://www.fomal.cc/</id>
   
   <author>
-    <name>Fomalhaut🥝</name>
+    <name>Doncr</name>
     
   </author>
   
