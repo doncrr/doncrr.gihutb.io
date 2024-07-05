@@ -5222,7 +5222,7 @@ mjx-container[display],
   border-radius: 5px !important;
 }
 [data-theme="dark"] #web_bg {
-  background: var(--darkmode-bg);
+  background: url(https://pixiv.re/115738312.jpg);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -5230,14 +5230,14 @@ mjx-container[display],
 }
 @media screen and (max-width: 800px) {
   #web_bg {
-    background: var(--mobileday-bg);
+    background: url(https://pixiv.re/115738312.jpg);
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
   }
   [data-theme="dark"] #web_bg {
-    background: var(--mobilenight-bg);
+    background: url(https://pixiv.re/115738312.jpg);
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
@@ -6767,7 +6767,7 @@ div#archive {
 [data-theme="dark"] div#post,
 [data-theme="dark"] div#archive,
 [data-theme="dark"] div#page {
-  background: var(--trans-dark);
+  background: rgba(25,25,25,0.88);
 }
 
 /* 白天模式头图与页脚遮罩 */
@@ -7777,7 +7777,7 @@ input#pic-link {
 
 /* heo 加载动画头像 */
 .loading-img {
-  background: url(https://tuchuang.voooe.cn/images/2023/01/02/avatar.webp)
+  background: url(https://i0.hdslb.com/bfs/article/668c52a27da879b42e42d2d8dc6e870c61310217.jpg)
     no-repeat center center;
   background-size: cover;
 }
@@ -9518,7 +9518,6 @@ hr:before {
   scale: 1.05;
   transition: all 0.3s ease-in-out;
 }
-
 .search-dialog {
   position: fixed;
   top: 10%;
