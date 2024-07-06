@@ -6,7 +6,7 @@
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
   
   <link href="https://www.fomal.cc/"/>
-  <updated>2022-10-23T14:00:00.000Z</updated>
+  <updated>2024-07-05T17:41:39.942Z</updated>
   <id>https://www.fomal.cc/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试捏</title>
+    <link href="https://www.fomal.cc/posts/6799de9f.html"/>
+    <id>https://www.fomal.cc/posts/6799de9f.html</id>
+    <published>2024-07-05T17:41:16.000Z</published>
+    <updated>2024-07-05T17:41:39.942Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好哇</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;你好哇&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
